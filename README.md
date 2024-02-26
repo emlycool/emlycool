@@ -3,13 +3,12 @@
 ![Full stack software Developer | Backend & Frontend Roles | Leader](https://res.cloudinary.com/dsuxbd237/image/upload/c_scale,w_1500/c_crop,g_auto,h_500,w_1500/README.md.jpg)
 
 ## Who am I? 🤔
-Well, I am a fullstack developer with proven skills and experienced in developing consumer-faced applications. 
-
-I hail from Nigeria, currently studying web development in Canada.
+Well, I am a full-stack developer with proven skills and experience in developing consumer-faced applications. 
+I hail from Nigeria.
 
 ## What do I do? 🚀
 
-The popular saying code, eat and sleep. 
+The popular saying - code, eat, and sleep. 
 
 ## My Skills
 
