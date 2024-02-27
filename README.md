@@ -33,4 +33,5 @@ The popular saying - code, eat, and sleep.
 ## Let's Connect! 🌐
 
 - [LinkedIn](https://linkedin.com/in/joshua-moshood) 💼
-
+- [HackerRank](https://www.hackerrank.com/profile/joshua_moshood) 👨🏾‍💻
+- [LeetCode](https://leetcode.com/emlycool/) 👨🏾‍💻
